@@ -1,0 +1,9 @@
+@charset "UTF-8";
+@import url("style1.css");
+h4 {
+    color: #3F3D3D;
+    background-color: #9E9C9C;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+img {
+}
